@@ -1,0 +1,11 @@
+- 👋 **Bonjour, je suis Vincent Archambault-Bouffard**, professeur d’informatique au [Collège de Maisonneuve](https://www.cmaisonneuve.qc.ca/).  
+- 🥇 Ma spécialité : les langages de programmation.  
+- 🤝 Vous trouverez sur mon GitHub l’ensemble de mon matériel pédagogique. *Servez-vous* et, pourquoi pas, *venez collaborer* ! Dépôts qui pourraient vous intéresser :  
+  - 🐍 [Programmation Python](https://archambaultv-prof.github.io/programmation-python/)  
+  - 🧙‍♂️ [Les scripts du dernier recours](https://github.com/archambaultv-prof/les-scripts-du-dernier-recours)  
+- 🦚 Mes grandes réalisations pédagogiques :  
+  - Endormir un élève 💤. Faut-il le réveiller quand le cours est terminé ?  
+  - Dispenser un cours complet sans aucun PowerPoint 💻! Les 15 semaines 👏.  
+  - Se réunir un vendredi avec une collègue pour un projet commun, discuter toute la journée et devoir reprendre le travail le samedi soir 🤦‍♂️.  
+  - Envoyer l’énoncé du TP au mauvais groupe-classe : oh ils étaient confus 😵‍💫!
+  - Être le seul dont la machine virtuelle ne fonctionne pas. Ça marche pour tous les élèves, sauf pour moi. Merci Windows 🙏.  

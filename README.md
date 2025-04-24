@@ -1,5 +1,6 @@
 - 👋 **Bonjour, je suis Vincent Archambault-Bouffard**, professeur d’informatique au [Collège de Maisonneuve](https://www.cmaisonneuve.qc.ca/).  
-- 🥇 Ma spécialité : les langages de programmation.  
+- 🥇 Ma spécialité : les langages de programmation.
+- 🎓 Mon approche pédagogique : les étudiants comprennent vite lorsqu'on explique lentement.
 - 🤝 Vous trouverez sur mon GitHub l’ensemble de mon matériel pédagogique. *Servez-vous* et, pourquoi pas, *venez collaborer* ! Dépôts qui pourraient vous intéresser :  
   - 🐍 [Programmation Python](https://archambaultv-prof.github.io/programmation-python/)  
   - 🧙‍♂️ [Les scripts du dernier recours](https://github.com/archambaultv-prof/les-scripts-du-dernier-recours)  

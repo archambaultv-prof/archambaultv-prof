@@ -3,7 +3,7 @@
 - 🎓 Mon approche pédagogique : les étudiants comprennent vite lorsqu'on explique lentement.
 - 🤝 Vous trouverez sur mon GitHub l’ensemble de mon matériel pédagogique. *Servez-vous* et, pourquoi pas, *venez collaborer* ! Dépôts qui pourraient vous intéresser :  
   - 🐍 [Programmation Python](https://archambaultv-prof.github.io/programmation-python/)  
-  - 🧙‍♂️ [Corriger à 3 heures du matin](https://github.com/archambaultv-prof/c3hm)  
+  - ✏️ [Corriger à 3 heures du matin](https://github.com/archambaultv-prof/c3hm)  
 - 🦚 Mes grandes réalisations pédagogiques :  
   - Endormir un élève 💤. Faut-il le réveiller quand le cours est terminé ?  
   - Dispenser un cours complet sans aucun PowerPoint! Oui pendant 15 semaines d’affilée 👏!
